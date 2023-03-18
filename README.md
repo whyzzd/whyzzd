@@ -10,7 +10,7 @@
 - ☕ &nbsp; If it's fate, maybe we can make an appointment for a meal or coffee.
 - 📫 &nbsp; You can find my contact information on the left.
 
-<h3>🛠 Tech Stack</h3>
+<h3>🛠 Main Direction</h3>
 
 - Language: 
 
